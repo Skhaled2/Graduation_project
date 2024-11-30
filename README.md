@@ -55,3 +55,8 @@ This project is part of our undergraduate studies at Nile University, and we tha
 
 ## Future Work
 We aim to improve the accuracy of hemoglobin level predictions in Phase 2 and integrate the hardware device in Phase 3 to create a comprehensive solution for anemia detection and monitoring.
+
+## datasets
+-Detection of Anemia using Colour of the Fingernails Image Datasets from Ghana : https://data.mendeley.com/datasets/2xx4j3kjg2/1
+-Anemia Detection using Palpable Palm Image Datasets from Ghana : https://data.mendeley.com/datasets/ccr8cm22vz/1
+-Application of Machine Learning in Detecting Iron Deficiency Anemia Using Conjunctiva image Dataset from Ghana : https://data.mendeley.com/datasets/nt7r8hv2pz/1

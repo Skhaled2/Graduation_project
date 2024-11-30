@@ -1,6 +1,6 @@
 # Graduation_project
 
-#overview
+## **overview
 This repository contains the codes for our graduation project, which focuses on detecting anemia and hemoglobin levels using machine learning models and medical image analysis. The project is divided into three phases, described below:
 
 ##Phase 1: Anemia Detection using DenseNet

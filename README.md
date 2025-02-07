@@ -18,13 +18,13 @@ Classes:
 
 The DenseNet model achieved the following accuracies:
 
-Nails: 94.99%
-Palm: 98.44%
-Conjunctiva: 96.88%
+Nails: 99.22%
+Palm: 99.53%
+Conjunctiva: 99.3%
 
 ## Phase 2: Hemoglobin Level Prediction
 
-The second phase involves predicting hemoglobin levels based on conjunctiva images and metadata. We are currently working on building and fine-tuning the model for this task.
+The second phase involves predicting hemoglobin levels based on conjunctiva images and metadata.
 
 #### Data
 
@@ -33,10 +33,9 @@ Features: Conjunctiva images and relevant clinical metadata.
 
 #### Current Status
 
-Model development in progress.
-
 Objective: Train a regression model to accurately predict hemoglobin levels.
-
+MSE of 0.3
+r2 of 93%
 ## Phase 3: Infrared Device Integration
 
 The final phase will involve developing a hardware device that uses infrared technology to detect hemoglobin levels. The device's output will be fed into a machine learning model for analysis.
@@ -54,7 +53,7 @@ Model Architecture: DenseNet
 This project is part of our undergraduate studies at Nile University, and we thank our professors, mentors, and peers for their invaluable guidance and support.
 
 ## Future Work
-We aim to improve the accuracy of hemoglobin level predictions in Phase 2 and integrate the hardware device in Phase 3 to create a comprehensive solution for anemia detection and monitoring.
+We aim to integrate the hardware device in Phase 3 to create a comprehensive solution for anemia detection and monitoring.
 
 ## datasets
 -Detection of Anemia using Colour of the Fingernails Image Datasets from Ghana : https://data.mendeley.com/datasets/2xx4j3kjg2/1
